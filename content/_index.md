@@ -5,8 +5,8 @@ title = "Boom Boom Hamster Doom"
 # The homepage contents
 [extra]
 lead = "It is the war of the crabs, and your gaggle of rambunctious <strong>hamsters</strong> is eager to serve. Destroy the other teams before the island is blasted to pieces!"
-url="https://forms.gle/WzsmNXMVsKeazxqQ6"
-url_button="Join the beta!"
+url="https://www.meta.com/en-gb/experiences/boom-boom-hamster-doom/8951829304891573/"
+url_button="Get"
 
 # Menu items
 [[extra.menu.main]]
